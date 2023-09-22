@@ -9,4 +9,4 @@ Melhor split dos audios
 
 # Dependências
 pydub
-pydubmoviepy.editor
+moviepy.editor
