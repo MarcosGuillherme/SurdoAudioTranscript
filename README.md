@@ -5,8 +5,12 @@ Basicamente o projeto consiste em receber um video, converter em audio, dividir 
 
 # TODO
 Implementar ferramentas que coloquem contexto dos audios para uma melhor transcrição.
+
 Melhor split dos audios
+
+Escrever em um arquivo texto.
 
 # Dependências
 pydub
+
 moviepy.editor
